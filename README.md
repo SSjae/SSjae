@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Lee Seungjae 👋&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=210&section=header&text=Lee Seungjae 👋&fontSize=40&fontAlign=80&fontAlignY=30" />
   
-  <h2> :computer: Tech Stacks :computer: </h2>
+  <h3> :computer: Tech Stacks :computer: </h3>
   <img src="https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -16,7 +16,7 @@
   
   <br>
   
-  <h2> :speech_balloon: Most Languages :speech_balloon: </h2>
+  <h3> :speech_balloon: Most Languages :speech_balloon: </h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSjae&layout=compact">
 </div>
 
