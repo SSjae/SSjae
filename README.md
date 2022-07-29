@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/JSP-E56F1F?style=flat-square&logo=&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/MyBatis-5D4849?style=flat-square&logo=&logoColor=white">
-  <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?styleflat-square&logo=apachetomcat&logoColor=white">
+  <img src="https://img.shields.io/badge/Apache%20Tomcat-%23F8DC75.svg?style=flat-square&logo=apache-tomcat&logoColor=black">
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white">
   
   <br>
