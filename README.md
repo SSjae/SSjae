@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=230&section=header&text=Lee Seungjae 👋&fontSize=50&fontAlign=73&fontAlignY=30" />
+  Lee Seungjae 👋
   
   <h3> :computer: Tech Stacks :computer: </h3>
   <img src="https://img.shields.io/badge/Java-007396.svg?style=flat-square&logo=java&logoColor=white">
