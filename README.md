@@ -8,12 +8,14 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JSP-E56F1F?style=flat-square&logo=&logoColor=white">
   <img src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white"/>
-  <br>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
+  <br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/MyBatis-5D4849?style=flat-square&logo=&logoColor=white">
   <img src="https://img.shields.io/badge/Apache%20Tomcat-%23F8DC75.svg?style=flat-square&logo=apache-tomcat&logoColor=black">
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node-339933?style=flat&logo=Node.js&logoColor=white"/>
   
   <br>
   <br>
